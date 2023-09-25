@@ -62,9 +62,9 @@ select * from customer
 select * from loan
 select * from borrower
 select * from depositor
-drop table account;
-drop table branch;
-drop table customer;
-drop table loan;
-drop table borrower;
-drop table depositor
+--drop table account;
+--drop table branch;
+--drop table customer;
+--drop table loan;
+--drop table borrower;
+--drop table depositor
