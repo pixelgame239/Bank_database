@@ -79,9 +79,3 @@ select * from depositor
 select all branch_city from branch
 select distinct branch_city from branch
 select branch_name, AVG(amount) as avg_amt from loan group by branch_name
-drop table account;
-drop table branch;
-drop table customer;
-drop table loan;
-drop table borrower;
-drop table depositor
